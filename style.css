@@ -25,6 +25,24 @@ h1{
     font-size: 24px;
     background-color: blue;
 } 
-.toper-welcome{background-image:url(developer-portfolio-master/images/top-banner.png);background-repeat:no-repeat;
+.toper-welcome{background-image:url(developer-portfolio-master/images/top-banner.png);background-repeat:no-repeat;}
+.dream-big{background-image:url(developer-portfolio-master/images/dream-bg.png);background-repeat: no-repeat;background-position: right;}
+.experiences {background-image: url(developer-portfolio-master/images/exp-bg.png);
+    background-repeat: no-repeat;background-position:left;
+}
+.experiences-header{
+    padding-left: 15px;
+}
+.baby-h3{color: orange;
+
+}
+.experiences-item{box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.811);
+     width: 80%;margin: 5%;
+     padding: 25px;
+     border-radius: 10px;
+}
+.left{border-left:7px solid rgb(223, 106, 64)} 
+.right{border-left:7px solid rgb(34, 25, 204);} 
+h2{font-size: 40px;
 
 }
