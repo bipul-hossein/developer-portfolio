@@ -5,11 +5,15 @@ body{
 h1{ 
     font-size: 48px;
 }
-
+h4{
+    font-size: 28px;
+}
 .orange-color{
              color:orange
 }
-                           
+.prag{
+    font-size: 22px;
+}                         
 .flexible-contaner {display: flex;
 }
 .half-wedth{width: 50%;
@@ -18,12 +22,12 @@ h1{
 .half-wedth img{
             width:100%;
 }
-.anchor-tag { color: aqua;
+.anchor-tag { color:black;
     text-decoration: none;
-    padding:7px 19px;
+    padding:3px 8px;
     border-radius: 7px;
     font-size: 24px;
-    background-color: blue;
+    background-color:orange;
 } 
 .toper-welcome{background-image:url(developer-portfolio-master/images/top-banner.png);background-repeat:no-repeat;}
 .dream-big{background-image:url(developer-portfolio-master/images/dream-bg.png);background-repeat: no-repeat;background-position: right;}
@@ -32,6 +36,7 @@ h1{
 }
 .experiences-header{
     padding-left: 15px;
+    color: orange;
 }
 .baby-h3{color: orange;
 
