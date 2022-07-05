@@ -10,7 +10,7 @@ h1{
              color:orange
 }
                            
-section {display: flex;
+.flexible-contaner {display: flex;
 }
 .half-wedth{width: 50%;
     padding: 5%;
